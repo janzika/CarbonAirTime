@@ -3,7 +3,7 @@ This repository contains data and code supporting Zika and Church's submitted pa
 
 To reproduce the analysis presented in the paper, including all supplimentary figures, please use
 
->> [[]]
+>> AnalysisforZikaandChurch.ipynb
 
 To reproduce the initial processing of data from primary sources, please use
 
